@@ -1,1 +1,1 @@
-基于Qt+opencv实现的常用传统数字图像处理测试工具
+imbaprocess.cpp :一些传统得数字图像处理手段
